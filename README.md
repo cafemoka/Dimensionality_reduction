@@ -106,4 +106,6 @@ title('tSNE');
 set(gca,'FontSize',14); 
 ```
 
+![dimensionality_reduction_fisheriris](https://user-images.githubusercontent.com/54297018/63374120-24357400-c3c4-11e9-9572-9b901f4ce8dd.png)
+
 
